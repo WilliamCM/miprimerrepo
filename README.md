@@ -1,3 +1,3 @@
 # miprimerrepo
 Repositorio de ejemple
-Rama principal de mi proyecto ejemplo
+Rama QAs de mi proyecto ejemplo
